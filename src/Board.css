@@ -1,0 +1,11 @@
+.Board {
+  margin: 0 auto;
+  border: solid 2px gray
+}
+
+.Board-btn {
+  margin-top: 10px;
+  width: 70px;
+  height: 30px;
+  border-radius: 10%;
+}
